@@ -1,4 +1,4 @@
-public class Admin {
+public class AdminFpt {
     public static void main(String[] args) {
         String name = "Admin";
         String role = "Manager";
