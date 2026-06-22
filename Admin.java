@@ -1,6 +1,6 @@
 public class AdminFpt {
     public static void main(String[] args) {
-        String name = "Admin";
+        String name = "AdminFpt"Ad;
         String role = "Manager";
         int age = 25;
 
