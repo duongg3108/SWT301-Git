@@ -1,5 +1,5 @@
-public class Student {
+public class StudentFPT{
     public static void main(String[] args) {
-        System.out.println("Student");
+        System.out.println("StudentFPT");
     }
 }
